@@ -7,7 +7,8 @@
 -->
 
 ### Hello World! Hello You! 😄
-![visitors](https://visitor-badge.glitch.me/badge?page_id=coderLgee.coderLgee)
+[![coderLgee GitHub stats](https://github-readme-stats.vercel.app/api?username=coderLgee)](https://github.com/coderLgee/coderLgee)
+
 - 🔭 I’m a front-end developer
 - 📫 Email: 1565692947@qq.com
 - 🌱 I’m currently learning Data Structures and Algorithms
