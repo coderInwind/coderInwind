@@ -1,6 +1,7 @@
+### New Blogs
+[1、微信小程序的WebView解决方案](https://blog.liujicoding.top/blog/2023-9/weixinxiaochengxudiwebViewfangan)
 
 
-[![coderLgee GitHub stats](https://github-readme-stats.vercel.app/api?username=coderLgee)](https://github.com/coderLgee/coderLgee)
 
 
 ### Hello World! Hello You! 😄
